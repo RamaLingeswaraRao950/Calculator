@@ -1,6 +1,6 @@
 ### Calculator
 
-This is a calculator application built using React. It demonstrates the use of React hooks for state management and basic event handling. The calculator supports basic arithmetic operations like addition, subtraction, multiplication, and division.
+This is a calculator application built using React. It demonstrates the use of React hooks for state management and basic event handling. The calculator supports arithmetic operations like addition, subtraction, multiplication, and division.
 
 #### Features:
 - **Clear (AC)**: Resets the display to zero.
@@ -12,7 +12,7 @@ This is a calculator application built using React. It demonstrates the use of R
 #### How to Run:
 1. Clone the repository:
     
-    git clone 
+    git clone https://github.com/RamaLingeswaraRao950/Calculator.git
     
 2. Navigate to the project directory:
     
@@ -31,3 +31,5 @@ This is a calculator application built using React. It demonstrates the use of R
 #### Technologies Used:
 - **React**: A JavaScript library for building user interfaces.
 - **CSS**: For styling the calculator UI.
+
+#### Project Link :: 
