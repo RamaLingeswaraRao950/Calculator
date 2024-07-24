@@ -1,6 +1,6 @@
 ### Calculator
 
-This is a calculator application built using React. It demonstrates the use of React hooks for state management and basic event handling. The calculator supports arithmetic operations like addition, subtraction, multiplication, and division.
+This is a calculator application built using React. It demonstrates the use of React hooks for state management and basic event handling. This calculator supports arithmetic operations like addition, subtraction, multiplication, and division.
 
 #### Features:
 - **Clear (AC)**: Resets the display to zero.
@@ -32,4 +32,4 @@ This is a calculator application built using React. It demonstrates the use of R
 - **React**: A JavaScript library for building user interfaces.
 - **CSS**: For styling the calculator UI.
 
-#### Project Link :: 
+#### Project Link :: https://calculator-two-omega-75.vercel.app/
